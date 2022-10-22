@@ -37,4 +37,4 @@ When taking into account the time that bikes are used and the average duration o
 
 To deepen our analysis, we can create an additional chart that shows a comparison of bike usage between different age groups. We can also create a map that will show the location of the where bikes are checked out the most to display any hot spots within the city.
 
-[link to dashboard] (https://public.tableau.com/app/profile/brandon.cruz6807/viz/CitiBikeChallenge_16659900518110/UserTripsbyGenderbyWeekday?publish=yes)
+[link to dashboard] (https://public.tableau.com/app/profile/brandon.cruz6807/viz/CitiBikeChallenge_16659900518110/Story1?publish=yes)
